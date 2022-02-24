@@ -15,3 +15,7 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/clment
 <H3>3. Result</h3>
 
 >Trained a TF-IDF(Bidirectional) Naive Bayes model with competitive performance and with accuracy of 91%
+
+<Br>
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at <a href="mailto:mishraanmol258@gmail.com?subject=Hello%20Anmol" target="_top">
+mishraanmol258@gmail.com</a> 
